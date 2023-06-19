@@ -1,0 +1,5 @@
+-Proje mvc ve katmanlý mimari kullanýlarak yapýlmýþtýr. 
+-Starbucks ve portal firmalar için ekleme iþlemi farklý sayfalarda yapýlarak tek bir veri tabanýnda tutulmaktadýr.
+-Veri tabanýnda CompanyName olarak belirlenen tablo sütununda hangi firmadan kayýt yapýlýyorsa o firmanýn adý otomatik olarak kaydedilmektedir.
+
+
